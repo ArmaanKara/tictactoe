@@ -90,6 +90,9 @@ function App() {
 
   return (
     <main>
+      <h1>Tic Tac Toe</h1>
+      <br/>
+      <h4>Human vs AI</h4>
       <Board>
         {squares.map((square,index) =>
             <Square
