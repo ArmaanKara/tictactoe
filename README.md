@@ -28,7 +28,7 @@
 - VSCode
 
 ## Screenshot
-![Excursion webpage finished product](tictactoeSC.png)
+![Excursion webpage finished product](public\tictactoeSC.png)
 
 
 ## Setup and Usage
